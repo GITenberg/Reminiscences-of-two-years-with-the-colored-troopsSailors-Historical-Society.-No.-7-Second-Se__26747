@@ -1,0 +1,36 @@
+_repo: Reminiscences-of-two-years-with-the-colored-troopsSailors-Historical-Society.-No.-7-Second-Se__26747
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Addeman, Joshua M. (Joshua Melancthon)
+    alias: Addeman, J. M. (Joshua Melancthon)
+    birthdate: 1840
+    deathdate: 1930
+    gutenberg_agent_id: '32218'
+    url: http://www.gutenberg.org/2009/agents/32218
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26747'
+  lccn: 04019523
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Louisiana -- History -- Civil War, 1861-1865'
+- !lcsh 'United States. Army. Colored Heavy Artillery Regiment, 8th (1864)'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States. Army. Colored Heavy Artillery Regiment, 11th (1864-1865)'
+- !lcsh 'United States. Army. Rhode Island Heavy Artillery Regiment (Colored), 14th
+  (1863-1864)'
+title: "Reminiscences of two years with the colored troops\r\nPersonal Narratives\
+  \ of events in the War of the Rebellion, being papers read before the Rhode Island\
+  \ Soldiers and Sailors Historical Society. No. 7, Second Series"
+url: http://www.gutenberg.org/ebooks/26747
